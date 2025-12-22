@@ -20,7 +20,7 @@ const projects: Project[] = [
     description: "Instalação",
     progress: 60,
     nextUpdate: [""],
-    lastUpdate: "Última atualização.",
+    lastUpdate: "",
   },
   {
     id: 2,
