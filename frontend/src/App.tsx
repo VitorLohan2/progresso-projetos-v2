@@ -46,6 +46,14 @@ const projects: Project[] = [
     nextUpdate: [""],
     lastUpdate: "",
   },
+  {
+    id: 5,
+    name: "Guarita principal",
+    description: "",
+    progress: 40,
+    nextUpdate: [""],
+    lastUpdate: "",
+  },
 ];
 
 function App() {
